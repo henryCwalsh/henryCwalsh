@@ -115,17 +115,16 @@ Personal portfolio showcasing my **software engineering projects and experience*
 
 <p align="center">
   <a href="https://github.com/Pranesh-2005/github-readme-stats-fast">
-    <img
-      width="49%"
-      src="https://github-readme-stats-fast.vercel.app/api/streak?username=henryCwalsh&theme=dark&border_color=991B1B&ring=991B1B&fire=DC2626&currStreakNum=991B1B&sideNums=C9D1D9&currStreakLabel=991B1B"
-      alt="Henry's GitHub Streak"
-    />
+<img
+  width="49%"
+  src="https://github-readme-stats-fast.vercel.app/api/streak?username=henryCwalsh&theme=dark&border_color=991B1B&ring=991B1B&fire=DC2626&currStreakNum=991B1B&sideNums=C9D1D9&currStreakLabel=991B1B&v=2"
+/>
   </a>
 
   <a href="https://github-stats-extended.vercel.app">
     <img
       width="30%"
-      src="https://github-stats-extended.vercel.app/api/top-langs?username=henryCwalsh&langs_count=4&theme=dark&border_color=991B1B&title_color=991B1B&icon_color=991B1B"
+src="https://github-stats-extended.vercel.app/api/top-langs?username=henryCwalsh&langs_count=4&theme=dark&border_color=991B1B&title_color=991B1B&icon_color=991B1B&v=2"
       alt="Henry's Top Languages"
     />
   </a>
@@ -136,7 +135,7 @@ Personal portfolio showcasing my **software engineering projects and experience*
 <p align="center">
   <img
     width="75%"
-    src="./profile-3d-contrib/profile-red.svg"
+    src="./profile-3d-contrib/profile-red.svg?v=2"
     alt="3D Contribution Calendar"
   />
 </p>
