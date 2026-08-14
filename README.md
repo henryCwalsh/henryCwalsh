@@ -36,7 +36,7 @@ I am a student studying computer science at Lafayette College entering my senior
 <ul>
   <li><a href="https://www.youtube.com/watch?v=Zg8r43dGWAo"><i>Streamline: Multi-platform streaming app built for Curiosity Stream</i></a></li>
   <li><a href="https://stat-pulse.vercel.app"><i>Statpulse: Advanced Sports Statistics for the Casual Viewer</i></a></li>
-  <li><a href="httos://henry-walsh.vercel.app"><i>Personal portfolio website to demonstrate and display my skills as a software engineer</i></li>
+  <li><a href="https://henry-walsh.vercel.app"><i>Personal portfolio website to demonstrate and display my skills as a software engineer</i></li>
 </ul>
 
 <h3>Github Statistics</h3>
