@@ -45,6 +45,11 @@ I am a student studying computer science at Lafayette College entering my senior
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=henryCwalsh&langs_count=4&theme=dark&border_color=991B1B&title_color=991B1B&icon_color=991B1B)](https://github-stats-extended.vercel.app/api/top-langs?username=henryCwalsh&langs_count=4&theme=dark)
 
+<h2 align="center">Contribution Activity</h2>
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-red.svg" alt="3D Contribution Calendar" />
+</p>
 
 <!--
 **henryCwalsh/henryCwalsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
