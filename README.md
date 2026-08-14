@@ -32,6 +32,11 @@ I am a student studying computer science at Lafayette College entering my senior
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
+<h3>Standout projects</h3>
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=Zg8r43dGWAo"><i>Streamline: Multi-platform streaming app built for Curiosity Stream</i></a></li>
+  <li><a href="https://stat-pulse.vercel.app"><i>Statpulse: Advanced Sports Statistics for the Casual Viewer</i></a></li>
+</ul>
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=henryCwalsh&langs_count=4&theme=maroongold)](https://github-stats-extended.vercel.app/api/top-langs?username=henryCwalsh&langs_count=4&theme=maroongold)
 
 <!--
