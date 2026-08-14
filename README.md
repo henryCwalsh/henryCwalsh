@@ -110,7 +110,7 @@ Personal portfolio showcasing my **software engineering projects and experience*
 </table>
 
 ---
-
+<!--
 <h2 align="center">GitHub Statistics</h2>
 
 <p align="center">
@@ -139,3 +139,4 @@ src="https://github-stats-extended.vercel.app/api/top-langs?username=henryCwalsh
     alt="3D Contribution Calendar"
   />
 </p>
+-->
