@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there I'm Henry Walsh👋
 
+[![Henry's GitHub stats](https://github-stats-extended.vercel.app/api?username=henryCwalsh)](https://github.com/stats-organization/github-stats-extended)
 <!--
 **henryCwalsh/henryCwalsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
