@@ -38,9 +38,11 @@ I am a student studying computer science at Lafayette College entering my senior
   <li><a href="https://stat-pulse.vercel.app"><i>Statpulse: Advanced Sports Statistics for the Casual Viewer</i></a></li>
 </ul>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=henryCwalsh&theme=sakura-x&hide_border=true)](https://git.io/streak-stats)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=henryCwalsh&langs_count=4&theme=aura)](https://github-stats-extended.vercel.app/api/top-langs?username=henryCwalsh&langs_count=4&theme=aura)
+<h3>Github Statistics</h3>
 
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=henryCwalsh&theme=dark&border_color=991B1B&ring=991B1B&fire=991B1B&currStreakNum=991B1B&sideNums=991B1B&currStreakLabel=991B1B)](https://github.com/Pranesh-2005/github-readme-stats-fast)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=henryCwalsh&langs_count=4&theme=dark&border_color=991B1B&title_color=991B1B&icon_color=991B1B)](https://github-stats-extended.vercel.app/api/top-langs?username=henryCwalsh&langs_count=4&theme=dark)
 
 
 <!--
