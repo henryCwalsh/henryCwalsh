@@ -38,7 +38,10 @@ I am a student studying computer science at Lafayette College entering my senior
   <li><a href="https://stat-pulse.vercel.app"><i>Statpulse: Advanced Sports Statistics for the Casual Viewer</i></a></li>
 </ul>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=henryCwalsh&langs_count=4&theme=maroongold)](https://github-stats-extended.vercel.app/api/top-langs?username=henryCwalsh&langs_count=4&theme=maroongold)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=henryCwalsh&theme=sakura-x&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=henryCwalsh&langs_count=4&theme=aura)](https://github-stats-extended.vercel.app/api/top-langs?username=henryCwalsh&langs_count=4&theme=aura)
+
+
 
 <!--
 **henryCwalsh/henryCwalsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
