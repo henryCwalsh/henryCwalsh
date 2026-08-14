@@ -1,0 +1,19 @@
+[
+  {
+    "type": "normal",
+    "fileName": "profile-red.svg",
+    "backgroundColor": "#0D1117",
+    "foregroundColor": "#C9D1D9",
+    "strongColor": "#991B1B",
+    "weakColor": "#484F58",
+    "radarColor": "#991B1B",
+    "growingAnimation": true,
+    "contribColors": [
+      "#161B22",
+      "#3F0B0B",
+      "#661111",
+      "#991B1B",
+      "#DC2626"
+    ]
+  }
+]
